@@ -1,43 +1,45 @@
 Topic,Count,Name
--1,6974,-1_data_based_learning_model
-0,2273,0_channel_network_wireless_networks
-1,992,1_image_images_3d_video
-2,738,2_software_development_code_process
-3,626,3_language_word_translation_text
-4,619,4_neural_learning_training_deep
-5,436,5_memory_performance_scheduling_computing
-6,430,6_robot_robots_control_robotic
-7,318,7_workshop_proceedings_international_formal
-8,307,8_privacy_encryption_security_key
-9,285,9_speech_audio_music_speaker
-10,283,10_logic_programs_semantics_logics
-11,248,11_security_attacks_detection_attack
-12,240,12_graph_graphs_vertices_vertex
-13,225,13_cloud_cloud computing_computing_service
-14,213,14_signal_sparse_filter_sensing
-15,210,15_social_networks_community_network
-16,201,16_social_media_social media_news
-17,197,17_driving_vehicle_vehicles_road
-18,196,18_clustering_protein_data_cluster
-19,194,19_segmentation_cancer_images_medical
-20,174,20_game_games_players_player
-21,165,21_graph_graphs_node_embedding
-22,162,22_face_facial_recognition_face recognition
-23,146,23_reinforcement_reinforcement learning_learning_rl
-24,132,24_agents_agent_planning_multi agent
-25,124,25_polynomial_polynomials_algorithm_problem
-26,122,26_bayesian_optimization_algorithms_evolutionary
-27,110,27_ai_intelligence_artificial_artificial intelligence
-28,109,28_fuzzy_rough_fuzzy logic_decision
-29,107,29_iot_internet_things_internet things
-30,104,30_recommendation_user_item_items
-31,100,31_medical_clinical_patient_patients
-32,94,32_students_education_ict_teaching
-33,91,33_web_ontology_semantic_semantic web
-34,90,34_uav_drone_uavs_unmanned
-35,83,35_citation_journals_citations_journal
-36,81,36_blockchain_smart_contracts_smart contracts
-37,79,37_mobile_android_apps_app
-38,73,38_covid_covid 19_19_pandemic
-39,71,39_mining_association_utility_rules
-40,65,40_entropy_inequalities_enyi_inequality
+-1,6944,-1_data_based_learning_model
+0,2310,0_channel_wireless_network_networks
+1,865,1_language_text_word_translation
+2,767,2_software_development_code_process
+3,656,3_neural_learning_training_networks
+4,446,4_robot_robots_control_robotic
+5,400,5_image_images_object_color
+6,393,6_memory_performance_scheduling_computing
+7,319,7_workshop_proceedings_international_formal
+8,301,8_speech_audio_music_speaker
+9,296,9_privacy_encryption_security_key
+10,278,10_3d_shape_pose_point
+11,272,11_logic_programs_semantics_logics
+12,238,12_graph_graphs_vertices_vertex
+13,236,13_web_citation_ontology_research
+14,226,14_cloud_cloud computing_computing_service
+15,218,15_security_attacks_detection_attack
+16,208,16_reinforcement_reinforcement learning_agent_learning
+17,205,17_clustering_protein_data_cluster
+18,191,18_social_media_social media_news
+19,189,19_segmentation_cancer_images_medical
+20,183,20_game_games_players_player
+21,171,21_driving_vehicle_vehicles_road
+22,166,22_sparse_signal_sensing_recovery
+23,161,23_face_facial_recognition_face recognition
+24,143,24_polynomial_polynomials_problem_algorithm
+25,137,25_graph_graphs_embedding_node
+26,134,26_video_videos_temporal_frames
+27,122,27_bayesian_evolutionary_algorithms_algorithm
+28,117,28_students_education_government_teaching
+29,110,29_ai_intelligence_artificial_artificial intelligence
+30,107,30_fuzzy_rough_decision_fuzzy logic
+31,103,31_recommendation_user_item_recommender
+32,101,32_iot_internet_things_internet things
+33,91,33_uav_drone_uavs_unmanned
+34,89,34_network_networks_community_centrality
+35,84,35_social_social network_social networks_network
+36,84,36_blockchain_smart_contracts_smart contracts
+37,79,37_medical_clinical_health_patient
+38,78,38_covid_covid 19_19_pandemic
+39,73,39_mobile_android_apps_devices
+40,69,40_planning_pomdps_decision_value
+41,65,41_entropy_inequalities_enyi_inequality
+42,62,42_mining_association_utility_frequent
