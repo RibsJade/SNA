@@ -1,41 +1,41 @@
-Topic,Count,Name
--1,7364,-1_data_based_learning_model
-0,2325,0_channel_network_wireless_networks
-1,751,1_language_text_word_translation
-2,731,2_software_development_code_process
-3,632,3_neural_learning_training_deep
-4,411,4_robot_robots_control_human
-5,374,5_social_media_network_social media
-6,359,6_memory_performance_scheduling_grid
-7,351,7_image_images_color_object
-8,323,8_workshop_proceedings_international_formal
-9,316,9_game_games_agents_players
-10,292,10_privacy_encryption_security_key
-11,290,11_logic_programs_semantics_logics
-12,283,12_speech_audio_music_speaker
-13,268,13_traffic_vehicle_driving_road
-14,239,14_graph_graphs_vertices_vertex
-15,233,15_iot_blockchain_smart_internet
-16,228,16_security_attacks_detection_attack
-17,214,17_cloud_cloud computing_computing_service
-18,199,18_segmentation_cancer_images_medical
-19,182,19_signal_sparse_sensing_filter
-20,182,20_3d_shape_pose_reconstruction
-21,169,21_graph_graphs_node_networks
-22,162,22_face_facial_recognition_face recognition
-23,151,23_reinforcement_reinforcement learning_learning_rl
-24,137,24_polynomial_polynomials_problem_functions
-25,131,25_video_videos_temporal_frames
-26,110,26_fuzzy_rough_decision_fuzzy logic
-27,105,27_ai_intelligence_artificial intelligence_artificial
-28,104,28_recommendation_user_item_recommender
-29,101,29_web_ontology_semantic_semantic web
-30,97,30_students_education_ict_government
-31,94,31_citation_scientific_journals_journal
-32,91,32_medical_clinical_health_patient
-33,88,33_clustering_data_cluster_subspace
-34,86,34_uav_drone_uavs_unmanned
-35,83,35_protein_dna_proteins_molecular
-36,79,36_mobile_android_apps_devices
-37,78,37_covid_covid 19_19_pandemic
-38,74,38_mining_association_utility_rules
+Topic,Count,Word,Name
+-1,7364,-1_data_based_learning_model,
+0,2325,0_channel_network_wireless_networks,Wireless Network
+1,751,1_language_text_word_translation,Language Technology
+2,731,2_software_development_code_process,Software Development
+3,632,3_neural_learning_training_deep,Deep Learning
+4,411,4_robot_robots_control_human,Robotics
+5,374,5_social_media_network_social media,Social network
+6,359,6_memory_performance_scheduling_grid,Memory Scheduling
+7,351,7_image_images_color_object,Image processing
+8,323,8_workshop_proceedings_international_formal,Workshop and Proceedings
+9,316,9_game_games_agents_players,Games
+10,292,10_privacy_encryption_security_key,Privacy and Security
+11,290,11_logic_programs_semantics_logics,Logic programming
+12,283,12_speech_audio_music_speaker,Speech and Music Technology
+13,268,13_traffic_vehicle_driving_road,Transportation
+14,239,14_graph_graphs_vertices_vertex,Graph Theory
+15,233,15_iot_blockchain_smart_internet,Internet of Things
+16,228,16_security_attacks_detection_attack,Cyber Attack
+17,214,17_cloud_cloud computing_computing_service,Cloud
+18,199,18_segmentation_cancer_images_medical,Medical Image segmentation
+19,182,19_signal_sparse_sensing_filter,Sensing and Sparse Filtering
+20,182,20_3d_shape_pose_reconstruction,3D Shape Reconstruction
+21,169,21_graph_graphs_node_networks,Network graph
+22,162,22_face_facial_recognition_face recognition,Face recognition
+23,151,23_reinforcement_reinforcement learning_learning_rl,Reinforcement Learning
+24,137,24_polynomial_polynomials_problem_functions,Polynomial Functions
+25,131,25_video_videos_temporal_frames,Video Coding
+26,110,26_fuzzy_rough_decision_fuzzy logic,Fuzzy logic
+27,105,27_ai_intelligence_artificial intelligence_artificial,Artificial Intelligence
+28,104,28_recommendation_user_item_recommender,Recommender System
+29,101,29_web_ontology_semantic_semantic web,Semantic Web
+30,97,30_students_education_ict_government,ICT in Education
+31,94,31_citation_scientific_journals_journal,Scientific Journals
+32,91,32_medical_clinical_health_patient,Computing for Medicine
+33,88,33_clustering_data_cluster_subspace,Clustering Data
+34,86,34_uav_drone_uavs_unmanned,Autonomous UAV
+35,83,35_protein_dna_proteins_molecular,Molecular Computing
+36,79,36_mobile_android_apps_devices,Mobile App Development
+37,78,37_covid_covid 19_19_pandemic,Pandemic
+38,74,38_mining_association_utility_rules,Association Rule Mining
